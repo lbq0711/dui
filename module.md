@@ -31,6 +31,14 @@
 		<td>auth,session</td>
 		<td>passport</td>
 	</tr>	
+</table>
+<p>reference:</p>
+<p>
+	Docker API v1.25:<a href="https://docs.docker.com/engine/api/v1.25/">http://docs.docker.com/engine/api/v1.25/</a>
+	Express API:<a href="http://www.expressjs.com.cn/4x/api.html">http://www.expressjs.com.cn/4x/api.html</a>
+	Nodejs API:<a href="https://nodejs.org/dist/latest-v6.x/docs/api/">https://nodejs.org/dist/latest-v6.x/docs/api/</a>
+	jQuery API:<a href="http://api.jquery.com/">http://api.jquery.com/</a>
+
 
 
 
