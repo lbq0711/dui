@@ -1,0 +1,30 @@
+{
+  "name": "dui",
+  "version": "1.0.0",
+  "description": "test for docker ui",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "express-session": "^1.15.1",
+    "express3-handlebars": "^0.5.2",
+    "morgan": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lbq0711/dui.git"
+  },
+  "author": "libq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbq0711/dui/issues"
+  },
+  "homepage": "https://github.com/lbq0711/dui#readme"
+}
